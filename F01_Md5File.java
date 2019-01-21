@@ -7,6 +7,7 @@ package net.bplaced.javacrypto.hashandmac;
 * Copyright: This is free and unencumbered software released into the public domain.
 * Lizenttext/Licence: <http://unlicense.org>
 * getestet mit/tested with: Java Runtime Environment 8 Update 191 x64
+* getestet mit/tested with: Java Runtime Environment 11.0.1 x64
 * Datum/Date (dd.mm.jjjj): 18.01.2019
 * Funktion: errechnet den MD5-Hashwert einer Datei
 * Function: calculates the MD5-hash of a file
